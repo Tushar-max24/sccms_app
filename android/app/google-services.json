@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274858763273",
+    "project_id": "sccms-app-b8001",
+    "storage_bucket": "sccms-app-b8001.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274858763273:android:798d256a1a07b5ef5244d8",
+        "android_client_info": {
+          "package_name": "com.example.sccms_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274858763273-nbi416bbbcvfqd7e0pmocg9hgkh4p46g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLJ3WgZdfzODjB6mDmpUMfpk3QrspzLg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274858763273-nbi416bbbcvfqd7e0pmocg9hgkh4p46g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
